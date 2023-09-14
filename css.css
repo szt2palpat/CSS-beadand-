@@ -1,0 +1,25 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+#elso{
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    width: 75%;
+    margin: 10px;
+}
+#masodik{
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    width:  75%;
+    margin: 10px;
+}
+.block{
+    height: 200px;
+    width: 75%;
+    margin: 10px;
+}
